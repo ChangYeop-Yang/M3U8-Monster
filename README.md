@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Swift-F05138?style=appveyor&logo=Swift&logoColor=white"/>
+
 # Installation
 
 # License
