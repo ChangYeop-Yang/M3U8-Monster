@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Swift-F05138?style=appveyor&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=appveyor&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=appveyor&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=appveyor&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=appveyor&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=appveyor&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=appveyor&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=appveyor&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/gitignore.io-204ECF?style=appveyor&logo=gitignoredotio&logoColor=white"/>
 
 # Installation
 
