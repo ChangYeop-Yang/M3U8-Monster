@@ -11,7 +11,7 @@
 ```TEXT
 MIT License
 
-Copyright (c) 2024 Universal-MediaKit
+Copyright (c) 2024 Seamless-M3U8
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
