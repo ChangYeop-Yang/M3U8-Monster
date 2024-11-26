@@ -4,14 +4,14 @@
 
 # License
 
-`Seamless-M3U8` is released under the MIT license. [See LICENSE](https://github.com/ChangYeop-Yang/Apple-SystemKit/blob/main/LICENSE) for details.
+`M3U8 Monster` is released under the MIT license. [See LICENSE](https://github.com/ChangYeop-Yang/Apple-SystemKit/blob/main/LICENSE) for details.
 
 </br>
 
 ```TEXT
 MIT License
 
-Copyright (c) 2024 Seamless-M3U8
+Copyright (c) 2024 M3U8 Monster
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
