@@ -4,7 +4,7 @@
 
 # License
 
-`MediaKit` is released under the MIT license. [See LICENSE](https://github.com/ChangYeop-Yang/Apple-SystemKit/blob/main/LICENSE) for details.
+`Seamless-M3U8` is released under the MIT license. [See LICENSE](https://github.com/ChangYeop-Yang/Apple-SystemKit/blob/main/LICENSE) for details.
 
 </br>
 
