@@ -4,7 +4,7 @@
 
 # License
 
-`M3U8 Monster` is released under the MIT license. [See LICENSE](https://github.com/ChangYeop-Yang/Apple-SystemKit/blob/main/LICENSE) for details.
+`M3U8 Monster` is released under the MIT license. [See LICENSE]([https://github.com/ChangYeop-Yang/Apple-SystemKit/blob/main/LICENSE](https://github.com/ChangYeop-Yang/M3U8-Monster/blob/main/LICENSE) for details.
 
 </br>
 
