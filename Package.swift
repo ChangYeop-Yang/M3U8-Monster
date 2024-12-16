@@ -33,15 +33,13 @@ let package = Package(
     // The list of minimum versions for platforms supported by the package.
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
-        .library(
-            name: PackageDescriptionInfo.PackageName,
-            targets: ["M3U8-Monster"]),
+        .library(name: PackageDescriptionInfo.PackageName, targets: [PackageDescriptionInfo.PackageName]),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: PackageDescriptionInfo.PackageName, path: PackageDescriptionInfo.PackagePath),
+        .target(name: PackageDescriptionInfo.PackageName,
+                path: PackageDescriptionInfo.PackagePath),
         .testTarget(
             name: "M3U8-MonsterTests",
             dependencies: ["M3U8-Monster"]
@@ -54,6 +52,6 @@ public struct PackageDescriptionInfo {
     
     // MARK: String Properties
     public static let PackageName: String = "M3U8-Monster"
-    
     public static let PackagePath: String = "Sources"
+    public static let PackageTestPath: String = "Tests"
 }
